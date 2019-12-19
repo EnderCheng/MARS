@@ -1,3 +1,3 @@
-# MARS
+# PISTIS
 
-Java Source Code for implementing MARS
+Java Source Code for implementing PISTIS
